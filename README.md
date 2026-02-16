@@ -12,7 +12,7 @@ I built this to show how I think about:
 - Mapping activity clearly to MITRE ATT&CK  
 - Producing clean, consistent writeups that a real SOC could use  
 
-## What this shows employers
+## What this shows
 
 - How I break down an investigation from start to finish  
 - How I use MITRE ATT&CK as a reasoning framework, not just a buzzword  
