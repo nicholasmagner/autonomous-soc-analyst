@@ -1,5 +1,5 @@
 
-# Autonomous SOC Analyst (Agentic AI)
+# Autonomous SOC Analyst (Agentic AI Security Automation) 
 
 This project shows how I approach building an AI-assisted SOC workflow using agentic reasoning for threat hunting, alert triage, and investigation reporting.
 
